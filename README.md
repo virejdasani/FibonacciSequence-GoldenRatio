@@ -1,4 +1,4 @@
-# FibonacciSequence + GoldenRatio
+# Fibonacci Sequence + Golden Ratio
 
 ### See the Fibonacci Sequence and the Golden Ratio with `fib.py`
 - Simply run `python3 fib.py`
